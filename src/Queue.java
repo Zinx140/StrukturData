@@ -16,7 +16,7 @@ public class Queue {
         System.out.println(list.value);
     }
 
-    public void push(int value) {
+    public void insert(int value) {
         while (list.next != null) {
             list = list.next;
         }

@@ -32,8 +32,27 @@ public class App {
         // show(a);
 
         // Circular Linked List
+        // CircularLinkedList cll = new CircularLinkedList();
+        // cll.insert(10);
+        // cll.show();
+        // cll.insert(10);
+        // cll.show();
+        // cll.remove(10);
+        // cll.show();
 
         // Double Circular Linked List
+        // DoubleCircularLinkedList dcll = new DoubleCircularLinkedList();
+        // dcll.insert(10);
+        // dcll.insert(20);
+        // dcll.insert(30);
+        // dcll.insert(40);
+
+        // dcll.show();
+
+        // dcll.remove(10);
+        // dcll.show();
+        // dcll.remove(40);
+        // dcll.show();
 
         // Stack
         // Stack s = new Stack(0);
@@ -46,13 +65,24 @@ public class App {
         // s.show();
 
         // Queue
-        Queue q = new Queue(0);
-        q.push(0);
-        q.push(5);
-        q.push(2);
-        q.show();
-        System.out.println(q.extract());
-        q.show();
+        // Queue q = new Queue(0);
+        // q.insert(0);
+        // q.insert(5);
+        // q.insert(2);
+        // q.show();
+        // System.out.println(q.extract());
+        // q.show();
+
+        // Priotity Queue
+        // PriorityQueue pq = new PriorityQueue(0, 4);
+        // pq.show();
+        // pq.insert(3, 2);
+        // // pq.insert(10, 3);
+        // pq.show();
+        // System.out.println(pq.extract());
+        // pq.show();
+        // pq.first();
+
     }
 
     // Linked - List
